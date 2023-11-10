@@ -264,7 +264,7 @@ html{
 }
 
 .skill-item{
-    width: 45%;
+    width: 40%;
     display: flex;
     margin-right: 80px;
     flex-direction: column;
